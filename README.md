@@ -54,7 +54,7 @@ VMware Korea study group for Modern application
 
 
 ## References
-[Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[About Git](https://docs.github.com/en/get-started/using-git/about-git)
-[Download VS code](https://code.visualstudio.com/download)
+- [Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [About Git](https://docs.github.com/en/get-started/using-git/about-git)
+- [Download VS code](https://code.visualstudio.com/download)
 
