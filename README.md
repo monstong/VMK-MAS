@@ -20,6 +20,10 @@ VMware Korea study group for Modern application
 - 
 
 ## 1. Ground rule
+- Rule 1
+- Rule 2
+- Rule 3
+- 
 
 
 ## 2. Session Topic
