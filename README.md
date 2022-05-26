@@ -115,6 +115,8 @@ VMware Korea study group for Modern application
   
   ### **Typically said .. Container is..**
     가장 많이 보는 그림 , 정의
+    [구글링 조회 결과](https://www.google.com/search?q=container+vs+vm&tbm=isch&ved=2ahUKEwjgu53W4P33AhWLgGMGHcoVBbEQ2-cCegQIABAA&oq=container+vs+vm&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBggAEB4QBVDKBVjKBWCVCmgAcAB4AIAB1gGIAZYDkgEFMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=h8GPYqDcJIuBjuMPyquUiAs&bih=913&biw=1792&rlz=1C5CHFA_enKR958KR959)
+
     ```
     가상 머신은 하드웨어 스택을 가상화 한다. 컨테이너는 이와 달리 운영체제 수준에서 가상화를 실시하여 다수의 컨테이너를 OS 커널에서 직접 구동된다. 하지만, 컨테이너는 훨씬 가볍고 운영체제 커널을 공유하며, 시동이 훨씬 빠르고 운영체제 전체 부팅보다 메모리를 훨씬 적게 차지한다. 그렇기 때문에 컨테이너는 애플리케이션을 실제 구동 환경으로부터 추상화할 수 있는 논리 패키징 메커니즘을 제공할 수 있다. 이러한 분리를 통해 사설 데이터 센터나 공용 클라우드 개발자, 심지어 개인 노트북 컴퓨터에서까지 대상 환경을 막론하고 컨테이너 기반 애플리케이션을 간단하고 균일하게 배포할 수 있다. 또한 컨테이너화를 통해 업무 영역을 깔끔하게 분리할 수 있다. 즉, 개발자는 애플리케이션의 로직과 종속 항목에 집중할 수 있고, IT 부서는 특정 소프트웨어 버전과 개별 앱 구성과 관련한 세부 업무에 시간을 낭비하지 않고 배포 및 관리에 집중할 수 있다.
     ```
