@@ -3,6 +3,11 @@ VMware Korea study group for Modern application
 
 ### **본 문서는 개인적 스터디용이며, 모든 내용은 아래 링크들로부터 발췌하였습니다.**
 ## Members and Personal Goal
+
+- Overall Goal
+  - CI/CD pipeline을 전체 구성을 한번 해보고 그다음 각 부분 딥다이브
+  - 기본 개념부터 확장해 나가자 (오늘만)
+
 - Steven Lim
 > My goal is...
 
