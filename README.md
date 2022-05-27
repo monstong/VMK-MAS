@@ -172,6 +172,30 @@ Pull image from dockerhub
 http://aispiration.com/r-docker/04-Dockerhub.html 
 
 
+
+```
+# docker pull nginx:latest
+# docker run -it --name 1st-test bash
+1st-test # ip a 
+1st-test # cd /
+1st-test # ls
+1st-test # ps -ef
+1st-test # exit
+
+# docker ps -a
+# docker rm {container name}
+
+# docker pull nginx:latest
+# docker run --name myweb -d -p 8080:80 nginx
+
+# curl http://localhost:8080
+# docker inspect myweb | more
+
+# docker pull mysql
+
+# docker volume create  --name sampleVolume
+
+
 - [Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [About Git](https://docs.github.com/en/get-started/using-git/about-git)
 - [Download VS code](https://code.visualstudio.com/download)
