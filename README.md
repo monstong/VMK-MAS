@@ -40,13 +40,13 @@ VMware Korea study group for Modern application
 | 3 |  |   |    |
 | 4 |  |   |    | 
 
-### Future topic candidate -> 다루었으면 하는 주게가 있으면 알려주세요.
+### 3. Future topic candidate -> 다루었으면 하는 주제가 있으면 알려주세요.
 - container
 - k8s
 - MSA
 - CI/CD pipeline
 
-## 3. References
+## 4. References
 - [Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [About Git](https://docs.github.com/en/get-started/using-git/about-git)
 - [Download VS code](https://code.visualstudio.com/download)
