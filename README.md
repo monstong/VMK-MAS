@@ -8,7 +8,7 @@ VMware Korea study group for Modern application
 > CI/CD pipeline을 전체 구성을 한번 해보고 그다음 각 부분 딥다이브
 
 - Steven Lim
-> My goal is...
+> My goal is to develop an understanding of the entire DevOps process and experience simple deployment and hands-on with popular tools at each phase of DevOps.
 
 - Yoon Hwan Cho
 > My goal is...
