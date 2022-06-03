@@ -35,8 +35,8 @@ VMware Korea study group for Modern application
 
 | no | Topic | Status | Date |
 |---|---|---|---|
-|1 | [Container & App architecture Story](./Sessions/Session-1-ContainerAndArchitectureStory.md) | Done | 2022-05-27 |
-| 2 |CI/CD Pipeline overview and setup the TAP|   |    |
+| 1 | [Container & App architecture Story](./Sessions/Session-1-ContainerAndArchitectureStory.md) | Done | 2022-05-27 |
+| 2 | [CI/CD Pipeline overview and setup the TAP](./Session-2-CICD-overview-N-setup-TAP.md) | On-track  | 2022-06-09 |
 | 3 |  |   |    |
 | 4 |  |   |    | 
 
