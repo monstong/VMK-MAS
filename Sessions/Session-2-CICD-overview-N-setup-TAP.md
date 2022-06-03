@@ -1,4 +1,4 @@
-# **Session #2. CI/CD overview and Setup a TAP 
+# **Session #2. CI/CD overview and Setup a TAP**
 - Host : Hong Seok Kang
 - Date : TBD
 - Attendee : 
