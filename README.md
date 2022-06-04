@@ -41,7 +41,7 @@ VMware Korea study group for Modern application
 | 4 |  |   |    | 
 
 ### 3. Future topic candidate -> 다루었으면 하는 주제가 있으면 알려주세요.
-- container
+- ~~container~~
 - k8s
 - MSA
 - CI/CD pipeline
