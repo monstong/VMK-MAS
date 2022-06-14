@@ -6,7 +6,12 @@
 - Agenda
 ## **들어가기 전에 ..**
 
-- azile software declaration
+- Agile software declaration
+https://agilemanifesto.org/iso/ko/manifesto.html 
+
+- Waterfall vs Agile
+https://www.netsolutions.com/insights/top-3-software-development-methodologies-pros-cons/ 
+
 - Devops 등장 및 특징
 - CI/CD 등장
 - CI/CD 특징 / 도구 / 
