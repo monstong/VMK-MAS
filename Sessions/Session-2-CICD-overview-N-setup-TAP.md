@@ -25,5 +25,5 @@ https://www.jetbrains.com/ko-kr/teamcity/ci-cd-guide/continuous-integration/
 에자일 소프트웨어 개발 선언
 https://agilemanifesto.org/iso/ko/manifesto.html
 
-<!-- TAP Install 참조
+TAP Install 참조
 https://confluence.eng.vmware.com/display/AO/AppOps+TAP+demo#AppOpsTAPdemo-TAPteammaininstallationguide
