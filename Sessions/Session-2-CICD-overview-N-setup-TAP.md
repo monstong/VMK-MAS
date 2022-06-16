@@ -144,3 +144,17 @@ With Container => 소스 빌드외  컨테이너 이미지 빌드 단계 필요 
 Component documentation
 
 https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.1/tap/GUID-components.html 
+
+
+
+### Next Step
+
+- 환경 구축
+
+- TAP 설치
+
+- TAP 시나리오 선정
+
+- TAP 테스트 수행 
+
+- 비교, 결과, 논의 ?? 
